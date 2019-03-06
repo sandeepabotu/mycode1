@@ -1,4 +1,5 @@
-class CheckEvenOdd
+fskjaklalckclkmsvklmsv
+4class CheckEvenOdd
 {
   public static void main(String args[])
   {
